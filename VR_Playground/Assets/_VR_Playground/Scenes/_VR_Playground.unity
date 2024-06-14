@@ -2181,6 +2181,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabinet_Traditional_Brown
       objectReference: {fileID: 0}
+    - target: {fileID: 8121765413580143737, guid: 8fc3fe44f914ec742ab17fca8615fc44,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.85406834
+      objectReference: {fileID: 0}
+    - target: {fileID: 8121765413580143737, guid: 8fc3fe44f914ec742ab17fca8615fc44,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.1545702
+      objectReference: {fileID: 0}
+    - target: {fileID: 8121765413580143737, guid: 8fc3fe44f914ec742ab17fca8615fc44,
+        type: 3}
+      propertyPath: m_Center.x
+      value: -0.0048846165
+      objectReference: {fileID: 0}
+    - target: {fileID: 8121765413580143737, guid: 8fc3fe44f914ec742ab17fca8615fc44,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 0.07561131
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3837,8 +3857,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 6, y: 0, z: 4}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 6, y: 0.042409785, z: 4}
+  m_Center: {x: 0, y: 0.010532956, z: 0}
 --- !u!114 &515933727
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3861,7 +3881,8 @@ MonoBehaviour:
   m_DistanceCalculationMode: 1
   m_SelectMode: 1
   m_FocusMode: 1
-  m_CustomReticle: {fileID: 0}
+  m_CustomReticle: {fileID: 8656087483511947524, guid: 50f8d835961353c4a8e0c4b77d7f8876,
+    type: 3}
   m_AllowGazeInteraction: 0
   m_AllowGazeSelect: 0
   m_OverrideGazeTimeToSelect: 0
@@ -4223,6 +4244,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8549488927350330639, guid: 7ba515d790385a04b99ed3faa24d19ba,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.18024136
+      objectReference: {fileID: 0}
+    - target: {fileID: 8549488927350330639, guid: 7ba515d790385a04b99ed3faa24d19ba,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 0.09116297
       objectReference: {fileID: 0}
     - target: {fileID: 8764996413235888236, guid: 7ba515d790385a04b99ed3faa24d19ba,
         type: 3}
@@ -9601,6 +9632,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8549488927350330639, guid: 7ba515d790385a04b99ed3faa24d19ba,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.17971687
+      objectReference: {fileID: 0}
+    - target: {fileID: 8549488927350330639, guid: 7ba515d790385a04b99ed3faa24d19ba,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 0.09142522
       objectReference: {fileID: 0}
     - target: {fileID: 8764996413235888236, guid: 7ba515d790385a04b99ed3faa24d19ba,
         type: 3}
